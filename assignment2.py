@@ -1,4 +1,3 @@
-import time
 def split_and_sort(nums):
     nums = set(nums) # <<< FIX for Assignment 2
     # check if input list length is less than or equal to 20
